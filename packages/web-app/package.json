@@ -16,6 +16,9 @@
     "reflect-metadata": ">=0.1.12 <0.2.0",
     "rxjs": "^7.1.0"
   },
+  "devDependencies": {
+    "@nestjs/microservices": "^9.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
